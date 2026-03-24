@@ -1,5 +1,5 @@
 # CCNA---Projecto-Final 02
-## Projeto de Defesa CCNA — Relatório Técnico
+## Projeto de Defesa CCNA - Relatório Técnico
 ## 📌 Introdução
 Este projeto foi desenvolvido como parte da minha preparação para a certificação CCNA, com o objetivo de consolidar conhecimentos práticos em roteamento, switching, segurança, NAT e OSPF. A topologia proposta simula um ambiente corporativo com duas filiais conectadas por um link serial entre roteadores, switches de acesso, servidores e estações de trabalho.
 
